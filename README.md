@@ -1,0 +1,1 @@
+# HealthSense™ is an advanced AI-powered symptom analysis tool that helps identify potential medical conditions based on reported symptoms
